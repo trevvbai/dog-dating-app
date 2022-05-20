@@ -1,7 +1,7 @@
 ﻿namespace API.Entities;
 
-public class AppUser
+public class Dog
 {
     public int Id { get; set; }
-    public string UserName { get; set; }
+    public string Name { get; set; }
 }
